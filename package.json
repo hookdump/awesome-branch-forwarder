@@ -1,7 +1,14 @@
 {
   "name": "awesome-branch-forwarder",
-  "author": "Ignacio Freiberg",
   "version": "0.0.1",
+  "author": {
+    "name": "Ignacio Freiberg",
+    "email": "hookdump@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hookdump/awesome-branch-forwarder.git"
+  },
   "dependencies": {
     "http-proxy": "~1.0.2",
     "underscore": "~1.5.2",
